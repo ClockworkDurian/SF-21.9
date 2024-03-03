@@ -9,5 +9,5 @@ class Rectangle:
         return f'Rectangle : {self.x}, {self.y}, {self.width}, {self.heigth}.'
 
 
-rect_1 = Rectangle(5, 10, 50, 100)
+rect_1 = Rectangle(0, 0, 20, 10)
 print(rect_1)
